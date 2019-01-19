@@ -1,3 +1,5 @@
 Print @hello word@
 Print 'hello Word'
 
+Print '123456'
+
